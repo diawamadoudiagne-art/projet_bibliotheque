@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+logs/*.log
+database/*.db
+.vscode/
+init_projet.py
