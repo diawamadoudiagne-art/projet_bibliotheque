@@ -1,0 +1,9 @@
+[
+    {
+        "type": "Livre",
+        "titre": "L'Aventure ambiguë",
+        "reference": "LIV01",
+        "statut": "DISPONIBLE",
+        "auteur": "Amadou sembene"
+    }
+]
